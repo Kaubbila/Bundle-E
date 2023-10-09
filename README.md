@@ -17,8 +17,8 @@
 - [x] [Task Lists](https://kaubbila.github.io/BundleE/#markdown-features-i-have-used-in-this-page)
 
 ## Section links
-[Home](https://kaubbila.github.io/BundleE/#free-choice-extra-assignment-bundle)<br>
-[Spirit Animal](https://kaubbila.github.io/BundleE/#my-spirit-animal)<br>
+[Home](https://kaubbila.github.io/BundleE/#free-choice-extra-assignment-bundle-e)<br>
+[Links](https://kaubbila.github.io/BundleE/#links)<br>
 [Favourite food](https://kaubbila.github.io/BundleE/#favourite-food)<br>
 [About](https://kaubbila.github.io/BundleE/#about)
 
