@@ -10,17 +10,17 @@
 
 ### Markdown features I have used in this page:
 - [x] Different headers
-- [x] [Links](https://kaubbila.github.io/BundleE/#links)
-- [x] [Images](https://kaubbila.github.io/BundleE/#favourite-food)
-- [x] [Section Links](https://kaubbila.github.io/BundleE/#section-links)
-- [x] [Relative Links](https://kaubbila.github.io/BundleE/#about)
-- [x] [Task Lists](https://kaubbila.github.io/BundleE/#markdown-features-i-have-used-in-this-page)
+- [x] [Links](https://kaubbila.github.io/Bundle-E/#links)
+- [x] [Images](https://kaubbila.github.io/Bundle-E/#favourite-food)
+- [x] [Section Links](https://kaubbila.github.io/Bundle-E/#section-links)
+- [x] [Relative Links](https://kaubbila.github.io/Bundle-E/#about)
+- [x] [Task Lists](https://kaubbila.github.io/Bundle-E/#markdown-features-i-have-used-in-this-page)
 
 ## Section links
-[Home](https://kaubbila.github.io/BundleE/#free-choice-extra-assignment-bundle-e)<br>
-[Links](https://kaubbila.github.io/BundleE/#links)<br>
-[Favourite food](https://kaubbila.github.io/BundleE/#favourite-food)<br>
-[About](https://kaubbila.github.io/BundleE/#about)
+[Home](https://kaubbila.github.io/Bundle-E/#free-choice-extra-assignment-bundle-e)<br>
+[Links](https://kaubbila.github.io/Bundle-E/#links)<br>
+[Favourite food](https://kaubbila.github.io/Bundle-E/#favourite-food)<br>
+[About](https://kaubbila.github.io/Bundle-E/#about)
 
 ## Links
 [My spirit animal](https://en.wikipedia.org/wiki/Capybara)<br>
